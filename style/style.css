@@ -1,0 +1,208 @@
+@font-face {
+    font-family: Kadwa-Regular ;
+    src: url(../assets/Kadwa-Regular.ttf);
+}
+
+h1{
+    color: black;
+    font-family: Kadwa-Regular;
+    font-size: 30px;
+}
+
+.icon{
+    /* display: flex;
+    justify-content: end; */
+    padding-left: 900px;
+    position: relative;
+    bottom: 10px;
+}
+
+body{
+    /* background-image: image();
+    src: url(../assets/1600w-JgNW0AU5Zbo.webp); */
+    
+    
+   
+    background-image: url(../assets/1600w-JgNW0AU5Zbo.webp);
+    background-size: 1440px 1024px;
+    
+   
+}
+
+.aboutMe{
+   position: relative;
+   top: 50px;
+   left: 110px;
+   
+}
+.aboutMeFont{
+    font-size: 40px;
+}
+.homeSize{
+    position: relative;
+    left: 50px;
+font-family: Kadwa-Regular;
+font-size: 40px;
+font-weight: bold;
+}
+
+/* .homeSize{
+    /* position: relative;
+    left: 50px; } */
+ 
+
+.name{
+    /* position: relative;
+    bottom: -30px;
+    left: 55px; */
+
+    padding-top: 100px;
+    padding-left: 130px;
+    font-family: Kadwa-Regular;
+    /* font-size: 200px; */
+}
+.nameFontSize{
+    font-size: 80px;
+}
+
+.buttonPosition{
+    display: flex;
+    justify-content: end;
+   
+}
+
+/* .buttonPosition{
+    position: relative;
+    left: 200px;
+   
+} */
+a.button{
+    font-size: x-large;
+    font-family: Kadwa-Regular;
+    font-weight: bold;
+   
+
+}
+/* a:hover{
+color: hotpink;
+} */
+
+img{
+    position: relative;
+    left: 130px;
+    top: 5px;
+    width: 60%;
+    height: 100%;
+}
+
+ul{
+    display: contents;
+    justify-self: center;
+   padding-bottom: 120px;
+}
+
+.ulPos{
+    /* padding: 200px 0% 20%; */
+
+    font-size: 20px;
+    /* position: relative; */
+    /* left: 164px;
+   bottom: 40px; */
+   padding-top: 2rem;
+   padding-left: 4rem;
+   
+}
+.imgPos{
+    /* margin-top: 80px; */
+
+    padding-bottom: 100px;
+}
+
+.navBarSpacing{
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.buttonsEqual{
+/* position:absolute; */
+/* bottom: -50px; */
+}
+
+.ulFont{
+    font-family: Kadwa-Regular;
+    font-size: 20px;
+}
+
+.interestButton{
+    margin-left: 200px ;
+}
+
+.linkMargin{
+    margin-bottom: 15px;
+}
+/* end of page one */
+
+
+/* start of page two */
+
+/* .BarTwoSpacing{
+    display: flex;
+justify-content: center;
+
+} */
+
+.homeSizeTwo{
+    
+font-family: Kadwa-Regular;
+font-size: 40px;
+font-weight: bold;
+}
+
+.pageTwo{
+    font-size: 40px;
+}
+
+
+
+.centerH{
+    padding-left: 570px;
+    padding-top: 90px ;
+}
+
+p{
+    font-family: Kadwa-Regular;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.img2Pos{
+    padding-top: 40px;
+}
+
+.buttonSize{
+    font-size: 100px;
+}
+
+.ulPageTwo{
+    font-family: Kadwa-Regular;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 45px;
+
+}
+
+.img3Pos{
+    /* padding-top: 30px;
+    padding-right: 20px; */
+    width: 400px;
+    height: 200px; 
+}
+
+.img4Pos{
+      /* padding-bottom: 100px;   */
+      /* margin-bottom: 40px;
+    padding-right: 20px;
+    width: 400px;
+    height: 200px;  */
+}
